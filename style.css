@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    }
+
+body > footer{
+    background-color: dodgerblue;
+    }
+
+body > footer > p{
+    padding: 16px;
+    color: white;
+    text-align: center;
+    }
+
+body > header {
+    background-color: dodgerblue;
+    color: white;
+
+    }
+
+#logo{
+    margin: 0;
+    font-family: "Fredoka One", sans-serif;
+    }
+nav > ul{
+    list-style: none;
+
+    }
+
+nav > ul > li > a{
+    color: white;
+    }
+
+#Categories > nav > ul > li > a{
+    color: blue;
+    }
+#comments {
+    text-align:right; 
+    }
+
+#Main-article{
+    margin: auto;
+    width: 70%;
+    }
+
+.article-news{
+    margin: 1;
+    text-align: left;
+    width:max-content
+    }
+
+.article-feedback{
+    background-color: transparent;
+    border: 1px dotted purple;
+    box-shadow: 2px 2px 2px 1px gray;
+    }
